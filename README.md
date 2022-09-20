@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atanas Atanasov</h1>
-<img align="right" alt="Coding" width="400" src="https://instagram.fsof7-1.fna.fbcdn.net/v/t51.2885-15/154101824_263584848657511_8829812286293704803_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fsof7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=0FxfDKlseRQAX8l6YuP&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjUxNzUwODM4ODE3OTc4MjMxNg%3D%3D.2-ccb7-5&oh=00_AT8j_SK9Uhljk1cWb5Ngynyazw4-r9YBnXfl_-BdZRJ2hw&oe=6330E4A3&_nc_sid=30a2ef">
+
 
 - 😁 I’m interest in Web development.
 
@@ -20,3 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasoow&" alt="atanasoow" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanasoow&show_icons=true&locale=en&layout=compact" alt="atanasoow" /></p>
+<img align="right" alt="Coding" width="400" src="https://instagram.fsof7-1.fna.fbcdn.net/v/t51.2885-15/154101824_263584848657511_8829812286293704803_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fsof7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=0FxfDKlseRQAX8l6YuP&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjUxNzUwODM4ODE3OTc4MjMxNg%3D%3D.2-ccb7-5&oh=00_AT8j_SK9Uhljk1cWb5Ngynyazw4-r9YBnXfl_-BdZRJ2hw&oe=6330E4A3&_nc_sid=30a2ef">
