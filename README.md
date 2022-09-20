@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtanasooW
+- 👋 Hi, I’m Atanas Atanasov
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript (:
 - 📫 You can reach me on  alodapesho@gmail.com
