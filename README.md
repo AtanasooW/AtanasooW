@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **programming**
 
-- 🌱 I’m currently learning **SQL (:**
+- 🌱 I’m currently learning **DB**
 
 - 📫 How to reach me **alodapesho@gmail.com**
 
