@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DB**
 
-- 📫 How to reach me **alodapesho@gmail.com**
+- 📫 How to reach me **psnaskoatanasov@gmail.com**
 
 <p align="left">
 </p>
