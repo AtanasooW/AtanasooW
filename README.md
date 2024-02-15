@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **programming**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently **Full stack developer**
 
 - 📫 How to reach me **psnaskoatanasov@gmail.com**
 
